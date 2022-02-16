@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 5ca8af81-c185-78e1-ceed-321f6c95c36f
 ---
@@ -47,7 +49,7 @@ Introduce course and its requirements; define characteristics of management comm
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 2
 {{< tdclose >}}
 {{< tdopen >}}
@@ -80,7 +82,7 @@ User's Manual due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 3  
  
 {{< tdclose >}}
@@ -114,7 +116,7 @@ Argument Outline due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 4  
  
 {{< tdclose >}}
@@ -148,7 +150,7 @@ Practice persuasive communication.
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 5  
  
 {{< tdclose >}}
@@ -200,7 +202,7 @@ Draft Presentation Slides due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 7  
  
 {{< tdclose >}}
@@ -234,7 +236,7 @@ Practice how to respond effectively to a range of questions in preparation for y
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 8  
  
 {{< tdclose >}}
@@ -293,7 +295,7 @@ Intra‐team Feedback Survey due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 10
 {{< tdclose >}}
 {{< tdopen >}}
@@ -344,7 +346,7 @@ Understand and assess the value of managing an effective personal social media s
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 12
 {{< tdclose >}}
 {{< tdopen >}}
@@ -377,7 +379,7 @@ Practice delivering your persuasive presentation based on OP client project with
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 13
 {{< tdclose >}}
 {{< tdopen >}}
