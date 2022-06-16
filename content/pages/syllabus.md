@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains the course objectives, format and requirements,
+  including the grading scheme.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
