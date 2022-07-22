@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains the course objectives, format and requirements,
+  including the grading scheme.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 0d396cca-0902-0e63-152a-701063e24804
 ---
