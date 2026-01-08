@@ -38,11 +38,11 @@ Course Introduction Communication Strategy
 
 \[GUIDE\] Chapter I, pp. 3–33.
 
-Greyser, Stephen A., and William Ellet. "{{% resource_link "761c17ea-99f8-41c0-9a17-a8c00eda8beb" "DRW Technologies" %}}." Harvard Business School Case. Harvard Business School Publishing. October 2015.
+Greyser, Stephen A., and William Ellet. "[DRW Technologies](https://hbr.org/product/DRW-Technologies/an/916535-PDF-ENG)." Harvard Business School Case. Harvard Business School Publishing. October 2015.
 
-Ancona, Deborah, Thomas W. Malone, et al. "{{% resource_link "63a172c7-fc8c-4b76-89db-9c376c91b8a7" "In Praise of the Incomplete Leader" %}}." _Harvard Business Review_, February 2007.
+Ancona, Deborah, Thomas W. Malone, et al. "[In Praise of the Incomplete Leader](https://hbr.org/2007/02/in-praise-of-the-incomplete-leader)." _Harvard Business Review_, February 2007.
 
-Batista, Ed. "{{% resource_link "aad2a0af-b5a0-4b6f-8beb-60ae038bc075" "Make Getting Feedback Less Stressful" %}}." _Harvard Business Review_, August 2014.
+Batista, Ed. "[Make Getting Feedback Less Stressful](https://hbr.org/2014/08/make-getting-feedback-less-stressful)." _Harvard Business Review_, August 2014.
 
 
 {{< tdclose >}}
@@ -58,7 +58,7 @@ Persuasive Communication
 {{< tdopen >}}
 
 
-Cialdini, Robert B. "{{% resource_link "f5931f3f-65e3-40c8-b02a-0f85ce9326ea" "Harnessing the Science of Persuasion" %}}." _Harvard Business Review,_ October 2001.
+Cialdini, Robert B. "[Harnessing the Science of Persuasion](https://hbr.org/2001/10/harnessing-the-science-of-persuasion)." _Harvard Business Review,_ October 2001.
 
 Pittore, Roberta. _The Power of Storytelling for Business Leaders._
 
@@ -78,7 +78,7 @@ Persuasive Communication / Writing
 
 \[GUIDE\] Chapters II and IV, pp. 35–69 and 71–83.
 
-Weeks, Holly. "{{% resource_link "549f3914-8841-41d5-84ca-e7549bcc4599" "The Best Memo You'll Ever Write" %}}." _Harvard Business Review_, April 2005, 3.
+Weeks, Holly. "[The Best Memo You'll Ever Write](http://hbr.org/product/best-memo-you-ll-ever-write/C0504C-PDF-ENG)." _Harvard Business Review_, April 2005, 3.
 
 
 {{< tdclose >}}
@@ -96,9 +96,9 @@ Persuasive Communication / Presenting
 
 \[GUIDE\] Chapter V, pp. 85–103.
 
-Morgan, Nick. "{{% resource_link "934db9cd-c0d3-402b-9db2-8b1bd553a6cf" "How to Become an Authentic Speaker" %}}." _Harvard Business Review_, November 2008.
+Morgan, Nick. "[How to Become an Authentic Speaker](https://hbr.org/2008/11/how-to-become-an-authentic-speaker)." _Harvard Business Review_, November 2008.
 
-TED Talk: Cuddy, Amy. {{% resource_link "c9b8cb19-20d6-4911-a26c-d9838efd6d29" "_Your Body Language Shapes Who You Are_" %}}. TED Talk. TED.com. June, 2012.
+TED Talk: Cuddy, Amy. [_Your Body Language Shapes Who You Are_](https://www.ted.com/talks/amy_cuddy_your_body_language_shapes_who_you_are). TED Talk. TED.com. June, 2012.
 
 
 {{< tdclose >}}
@@ -148,11 +148,11 @@ Enhancing Leadership Presence
 
 \[GUIDE\] pp. 91–95 and 105–39.
 
-Macaux, William P. "{{% resource_link "78db59b3-64d8-4c17-9a1c-cb903b985837" "Executive Presence for Leadership Teams" %}}." Bates Communication Incorporation (2014): 1–5
+Macaux, William P. "[Executive Presence for Leadership Teams](https://cdn2.hubspot.net/hubfs/25382/Executive%20Presence%20for%20Leadership%20Teams-1.pdf)." Bates Communication Incorporation (2014): 1–5
 
-"{{% resource_link "e54a0bb9-4285-44a5-9274-85fe7c90dc96" "Handling Q&A: The Five Kinds of Listening" %}}." _Harvard Management Communication_, February 1999, 2.
+"[Handling Q&A: The Five Kinds of Listening](https://hbr.org/product/handling-q-a-the-five-kinds-of-listening/an/C9902C-PDF-ENG)." _Harvard Management Communication_, February 1999, 2.
 
-Carla Ann Harris video: Take The Lead Women. "{{% resource_link "0126b28a-2d65-47a9-b826-ef949fa05715" "How To Own Your Power Presenation" %}}." May 5, 2014. YouTube.
+Carla Ann Harris video: Take The Lead Women. "[How To Own Your Power Presenation](https://www.youtube.com/watch?v=0rWmtyZXkFg)." May 5, 2014. YouTube.
 
 
 {{< tdclose >}}
@@ -176,7 +176,7 @@ _Speaker:_ Amy Cuddy (TED Talk)
 
 \[GUIDE\] pp. 154–57.
 
-Groysberg, Boris, and Robin Abraahams. "{{% resource_link "c1c1a059-f30b-44e6-b1b3-4eabe7be3a1c" "The Whys and Hows of Feedback" %}}." Harvard Business School Case. Harvard Business School Publishing. Mini Cases, August 2015.
+Groysberg, Boris, and Robin Abraahams. "[The Whys and Hows of Feedback](https://hbr.org/product/the-whys-and-hows-of-feedback/416013-PDF-ENG)." Harvard Business School Case. Harvard Business School Publishing. Mini Cases, August 2015.
 
 
 {{< tdclose >}}
@@ -209,7 +209,7 @@ Communicating Across Cultures
 
 Breslow, Lori, and Neal Hartman. _Intercultural Communication._
 
-Neeley, Tsedal. "{{% resource_link "eec995bb-b040-4497-9b8d-c63c11d4796a" "Language and Globalization: \"Englishnization\" at Rakuten (A)" %}}." Harvard Business School Case. Harvard Business School Publishing. Case: 402–12, August 2011.
+Neeley, Tsedal. "[Language and Globalization: "Englishnization" at Rakuten (A)](http://www.hbs.edu/faculty/Pages/item.aspx?num=40849)." Harvard Business School Case. Harvard Business School Publishing. Case: 402–12, August 2011.
 
 
 {{< tdclose >}}
@@ -223,7 +223,7 @@ S11
 Building Your Social Media Brand
 {{< tdclose >}}
 {{< tdopen >}}
-Dutta, Soumitra. "{{% resource_link "d8d03e1e-d021-4f4b-bd6f-8cfac70abe30" "Managing Yourself: What's Your Personal Social Media Strategy?" %}}" _Harvard Business Review_, November 2010.
+Dutta, Soumitra. "[Managing Yourself: What's Your Personal Social Media Strategy?](http://hbr.org/2010/11/managing-yourself-whats-your-personal-social-media-strategy)" _Harvard Business Review_, November 2010.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -259,7 +259,7 @@ S14
 Course Finale
 {{< tdclose >}}
 {{< tdopen >}}
-Powell, Elizabeth A. "{{% resource_link "21e20898-e875-4448-98e1-b8f5a4a0edee" "Writing to Reflect: Mindful Leadership in the Face of Change" %}}." _SSRN_ (2009).
+Powell, Elizabeth A. "[Writing to Reflect: Mindful Leadership in the Face of Change](https://ssrn.com/abstract=1416510)." _SSRN_ (2009).
 {{< tdclose >}}
 
 {{< trclose >}}
